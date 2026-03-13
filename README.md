@@ -1,9 +1,10 @@
 # Reproduction for [ra-supabase#93](https://github.com/marmelab/ra-supabase/issues/93)
 
+1. `supabase start`
 1. `bun install`
-2. `bun run dev`
-3. Navigate to http://localhost:3000/#/posts
-4. See crash
+1. `bun run dev`
+1. Navigate to http://localhost:3000/#/posts
+1. See crash
 
 ## Findings
 
